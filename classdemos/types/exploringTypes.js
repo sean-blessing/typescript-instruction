@@ -1,0 +1,11 @@
+var a = 1500;
+var b = 12;
+var c = a / b;
+console.log("some basic math...");
+console.log(c);
+console.log("do some string stuff...");
+var d = 5;
+var s = 'the value of d is ' + d;
+console.log(s);
+var ar = [1, 2, 4];
+console.log(ar);
